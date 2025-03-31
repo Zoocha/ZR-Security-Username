@@ -1,0 +1,8 @@
+name: 'Zoocha Security Username Enumeration Recipe'
+description: 'Provides Security related modules for Zoocha.'
+type: 'Feature'
+
+install:
+  - username_enumeration_prevention
+config:
+  strict: false
