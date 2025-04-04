@@ -4,7 +4,7 @@
     "type": "drupal-recipe",
     "require": {
         "php": ">=8.1",
-        "drupal/flood_control":"^3.0"
+        "drupal/username_enumeration_prevention":"^1.4"
     },
     "authors": [
         {
